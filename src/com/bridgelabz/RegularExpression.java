@@ -7,7 +7,7 @@ public class RegularExpression {
     static Pattern pattern = Pattern.compile("^([A-Z]?[a-z]{3,})$");
     public static void main(String[] args)
     {
-        Matcher matcher = pattern.matcher("Supriya");
+        Matcher matcher = pattern.matcher("Bhurle");
         if(matcher.matches())
             System.out.println(true);
         else
