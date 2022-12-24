@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a8a61f0-1b6b-47f3-9c4a-4eb9042007f1" name="Changes" comment="" />
+    <list default="true" id="1a8a61f0-1b6b-47f3-9c4a-4eb9042007f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/RegularExpression.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
